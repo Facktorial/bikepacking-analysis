@@ -1,0 +1,12 @@
+# Weather
+* [Brno](https://weather.com/weather/tenday/l/ef7c7f01c9b80f42e2537c9a4cec32adb41dcfd9d9ce3f5e63d072eae2d8cfdc)
+* [Bratislava](https://weather.com/weather/tenday/l/57847cb76e3ca8b6981553cd560d1c58774a1c60a95bbe37c0f5f1e132893fe8)
+* [Sopron](https://weather.com/weather/tenday/l/02a40ff776e26b1299b585e09e1d9778231e61e87780110111f1537e82625016)
+* [Maribor](https://weather.com/weather/tenday/l/9ac91a6bd4bbca3e942050825c9248f9596e5f83d7484e9ade1fc54d91bc308d)
+* [Ljublana](https://weather.com/weather/tenday/l/b9e4365b31682c660f8428a88ca632b078e5f04d8ce6955610fae9694c45b586)
+* [Villach](https://weather.com/weather/tenday/l/8294c904dc5c3cf9d76bf5758eb1b41cd46e7ec4c2bd2bd879da61d029732354)
+* [Cave del Predil](https://weather.com/weather/tenday/l/e93194aadc981a9b1b832156efbe3126a7670e8d93fdd83dd2b84bfb7330e108)
+* [Cividale del Friuli](https://weather.com/weather/tenday/l/25e070b76c6b7a5984d7c8d373bd9f3ef6ee281cb645fc0405034eea50ef3dee)
+* [Trieste](https://weather.com/weather/tenday/l/a7eb71b52f6502533b2ac28c26905f26ccd7e54b7b40a40dd37225ec83ee3859)
+* [Krk](https://weather.com/weather/tenday/l/c04466342b8b69cf8d02aa6e9ac4e777569fd94952c97117667fd9ac6e6bff79)
+* [Zagreb](https://weather.com/weather/tenday/l/c4f77da7733713a3a48e9ab530931706b136a129fe0c80df008624c4e6089921)
