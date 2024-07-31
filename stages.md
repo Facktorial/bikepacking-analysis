@@ -7,11 +7,11 @@
   - Vecere: Bratislava
   - Voda: dost, ale symbolicky Suchohrad
   - Extra: Privoz: Angern an der March - Záhorská Ves 
-  - Spanek: hamaka, Pottersburg
+  - Spanek: autocamp Divoka voda, hamaka na Slovensku, Pottersburg
   - Plan B: Brrrrrrrrr no
 * **2** [- 2nd Aug, Bratislava - Stegersbach, 158km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9n5htx6w-v9mKgnxMMt59kzDyxJN1A&rs=osm&rs=osm&rs=osm&ri=1015718708&ri=27257&ri=23229&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rut=1&x=16.6579972&y=47.8132567&z=11)
   - Podersdorf (52km), Rust, Sopron
-  - Spanek: 
+  - Spanek: Ehem, hamaka v lese za Neudau/Burgau
   - Extra: ferry Podersdorf - Rust (10:00 -> 11:00), 9€
   - Plan B:
 * **3** [- 3rd Aug, Stegersbach - Maribor, 108km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9k.SHxJO4R9j1JOxGtFm&rs=osm&rs=osm&ri=1087109067&ri=23581&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rwp=1%3B9kzQuxJBR-9kqqAxIr0t9kbg2xIWWhe1HxIATq9k699x4joK1lax4Ppq9jxvvxHuOWbjDdVA9jgXMxHSFO&rut=1&x=16.1047527&y=46.8640328&z=10)
