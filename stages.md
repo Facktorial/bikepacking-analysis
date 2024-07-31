@@ -9,17 +9,17 @@
   - Extra: Privoz: Angern an der March - Záhorská Ves 
   - Spanek: autocamp Divoka voda, hamaka na Slovensku, Pottersburg
   - Plan B: Brrrrrrrrr no
-* **2** [- 2nd Aug, Bratislava - Stegersbach, 164km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9703vx6Mig9n-RXx6BAl9mpzXxNHLO9mW3JxMwdo9mKgnxMMt59lk.1xKiPg9knYyxJIA2&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=1105910250&ri=1124515922&ri=78327&ri=168559&ri=27257&ri=1069028067&ri=19524180&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.1365382&y=47.6398284&z=9)
+* **2** [- 2nd Aug, Bratislava - Burgau, 164km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9703vx6Mig9n-RXx6BAl9mpzXxNHLO9mW3JxMwdo9mKgnxMMt59lk.1xKiPg9knYyxJIA2&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=1105910250&ri=1124515922&ri=78327&ri=168559&ri=27257&ri=1069028067&ri=19524180&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.1365382&y=47.6398284&z=9)
   - Podersdorf (52km), Rust, Sopron
   - Spanek: Ehem, hamaka v lese za Neudau/Burgau
   - Extra: ferry Podersdorf - Rust (10:00 -> 11:00), 9€
   - Plan B:
-* **3** [- 3rd Aug, Stegersbach - Maribor, 108km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9k.SHxJO4R9j1JOxGtFm&rs=osm&rs=osm&ri=1087109067&ri=23581&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rwp=1%3B9kzQuxJBR-9kqqAxIr0t9kbg2xIWWhe1HxIATq9k699x4joK1lax4Ppq9jxvvxHuOWbjDdVA9jgXMxHSFO&rut=1&x=16.1047527&y=46.8640328&z=10)
-  - Maribor (odpo prochazka, nakup jidla)
+* **3** [- 3rd Aug, Stegersbach - Lukanja, 131km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9k7EHxJIXa9j1JOxGtFm9ioiGxGJ8h&rs=osm&rs=osm&rs=osm&ri=1087091303&ri=23581&ri=207014&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=15.3790542&y=46.4579913&z=11)
+  - Maribor (odpo prochazka, nakup jidla), Zigartov vrch (281->1271, ~7.5%)
   - Spanek: nad mariborem v lese, hamaka 
   - Plan B:
-* **4** [- 4th Aug, Maribor - Ljubjana, 160km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mMT8xTuNN9n5htx6w-v&rs=muni&rs=osm&ri=5740&ri=1015718708&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rwp=1%3B9mQDexT1FsbdgxSpPBj21xSXoO9mjvPxR7Mb9m.HpxRVcy5.ZxQ90p5X3xQMpG9mwmgxPQnMld-xPDCp9nO3AxOHjM&x=16.8525070&y=48.4621806&z=8)
-  - Zigartov vrch (281->1271, ~7.5%) Ljubjana
+* **4** [- 4th Aug, Lukanja - Ljubjana, 128km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9ioiGxGJ8h9hNuzx2zPU&rs=osm&rs=osm&ri=207014&ri=45353&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rwp=1%3B9ilGvxF.JOadCxFhT49iUeVxFTrg9iG3N31U95s50eLP953iTxFFZ295N3IxEuvr9huAygjj9hbR7g6m9hUjRxEUi4&x=14.0817308&y=46.2707540&z=10)
+  - Ljubjana
   - Spanek: arbnb
   - Plan B: trasa udolim 153km, max 
 * **5** [- 5th Aug, Ljublana - Lago del Predil, 154 km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9hNuzx2zPU9gfH-xG-wm9fcgxxGw0K9e3bCxG2Mu&rs=osm&rs=osm&rs=osm&rs=osm&ri=45353&ri=61659&ri=225732&ri=130070629&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&rut=1&x=13.5873836&y=46.4551599&z=12)
