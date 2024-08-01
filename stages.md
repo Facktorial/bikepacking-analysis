@@ -1,13 +1,13 @@
-# [la Gran Tour de d'Fakainebleu](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mMT8xTuNN9n5htx6w-v9703vx6Mig9n-w2x6BUF9mucHxNLdZ9mW3JxMwdo9mKgnxMMt59j1JOxGtFm9hNuzx2zPU9gfH-xG-wm9fcgxxGw0K9e3bCxG2Mu9fJDwxCjav9gQ8GxAKuh9gr6xx0gPi9h8iJ13a95UavxBYKI9kXdpxDgBb&rs=muni&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=5740&ri=1015718708&ri=1105910250&ri=54991&ri=78327&ri=168559&ri=27257&ri=23581&ri=45353&ri=61659&ri=225732&ri=130070629&ri=31451&ri=1172125088&ri=1073140369&ri=1084431158&ri=604445&ri=1122615208&mrp=%7B%22c%22%3A121%7D&xc=%5B%22CZE%22%2C%22SVK%22%5D&x=14.8617976&y=46.9967973&z=7)
+# [la Gran Tour de croissant Fak'inebleu](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mMT8xTuNN9n5htx6w-v9703vx6Mig9n-w2x6BUF9mucHxNLdZ9mW3JxMwdo9mKgnxMMt59j1JOxGtFm9hNuzx2zPU9gfH-xG-wm9fcgxxGw0K9e3bCxG2Mu9fJDwxCjav9gQ8GxAKuh9gr6xx0gPi9h8iJ13a95UavxBYKI9kXdpxDgBb&rs=muni&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=5740&ri=1015718708&ri=1105910250&ri=54991&ri=78327&ri=168559&ri=27257&ri=23581&ri=45353&ri=61659&ri=225732&ri=130070629&ri=31451&ri=1172125088&ri=1073140369&ri=1084431158&ri=604445&ri=1122615208&mrp=%7B%22c%22%3A121%7D&xc=%5B%22CZE%22%2C%22SVK%22%5D&x=14.8617976&y=46.9967973&z=7)
 
 ## Stages
 * **1** [- 1st Aug, Brno - Bratislava, 183km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mMT8xTuNN9n5-tx69-n9703vx6Mig&rs=muni&rs=osm&rs=osm&ri=5740&ri=1005562707&ri=1105910250&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=17.1352400&y=48.0490218&z=13)
   - Prestavky: Breclav, Bratislava
-  - Obed: kuskus, tunak
+  - Obed: exekutorský úřad & pipi Grill 
   - Vecere: Bratislava
   - Voda: dost, ale symbolicky Suchohrad
   - Extra: Privoz: Angern an der March - Záhorská Ves 
-  - Spanek: autocamp Divoka voda, hamaka na Slovensku, Pottersburg
+  - Spanek: autocamp Divoka voda, hamaka na Slovensku, ~~Pottersburg~~
   - Plan B: Brrrrrrrrr no
 * **2** [- 2nd Aug, Bratislava - Burgau, 164km](https://en.mapy.cz/turisticka?planovani-trasy&rc=9703vx6Mig9n-RXx6BAl9mpzXxNHLO9mW3JxMwdo9mKgnxMMt59lk.1xKiPg9knYyxJIA2&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=1105910250&ri=1124515922&ri=78327&ri=168559&ri=27257&ri=1069028067&ri=19524180&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.1365382&y=47.6398284&z=9)
   - Podersdorf (52km), Rust, Sopron
