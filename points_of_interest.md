@@ -15,3 +15,6 @@
 * San Gimignano
 * Castiglione d'Orcia
 * https://www.cntraveler.com/galleries/2014-02-20/stunning-italian-coastal-towns
+* Sorrento
+* Porto Ercole
+* Ravello
