@@ -14,6 +14,8 @@
 * Rome
 * Caiazzo
 * Napoli
+* [Sorrento](https://www.google.com/search?q=sorrento&tbs=imgo:1&udm=2)
+* [Praino](https://www.google.com/search?q=praiano+amalfi+coast&tbs=imgo:1&udm=2)
 * Vesuvio
 
 
