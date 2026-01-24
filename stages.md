@@ -9,7 +9,7 @@
 * Venezia
 * Verona
 * Firenze
-* Civita di Bagionero
+* [Civita di Bagionero](https://www.google.com/search?q=Civita+di+Bagionero&tbs=imgo:1&udm=2)
 * Ortobello
 * [Porto Ercole](https://www.google.com/search?q=porto+ercole&tbs=imgo:1&udm=2)
 * Rome
@@ -87,7 +87,7 @@
   - Extra:
   - Spanek:
   - Plan B:
- * **10** [- ?, **Firenze** - Castiglione d'Orcia, ~180km]()
+* **10** [- ?, **Firenze** - Castiglione d'Orcia, ~180km]()
   - Prestavky:
   - Obed: 
   - Vecere:
@@ -95,7 +95,7 @@
   - Extra:
   - Spanek:
   - Plan B:
- * **11** [- ?, Castiglione d'Orcia - **Civita di Bagnoregio**, ~90km]()
+* **11** [- ?, Castiglione d'Orcia - **Civita di Bagnoregio**, ~90km]()
   - Prestavky:
   - Obed: 
   - Vecere:
@@ -103,7 +103,7 @@
   - Extra:
   - Spanek:
   - Plan B:
- * **12** [- ?, **Civita di Bagnoregio** - **Ortobello**, ~120km]()
+* **12** [- ?, **Civita di Bagnoregio** - **Ortobello**, ~120km]()
   - Prestavky:
   - Obed: 
   - Vecere:
