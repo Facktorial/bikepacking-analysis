@@ -1,6 +1,8 @@
 # [Hodně Na poli Tour](https://mapy.com/s/rezoheguma)
 ## 2nd la Gran Tour de croissant Fak'inebleu
 
+[Link to map once again](https://mapy.com/s/rezoheguma)
+
 ## [Points of interest](https://github.com/Facktorial/bikepacking-analysis/edit/HodneNaPoliTour/points_of_interest.md)
 * Prague
 * Milevsko
