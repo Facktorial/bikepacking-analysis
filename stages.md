@@ -18,7 +18,7 @@
 * Caiazzo
 * Napoli
 * [Sorrento](https://www.google.com/search?q=sorrento&tbs=imgo:1&udm=2)
-* [Praino](https://www.google.com/search?q=praiano+amalfi+coast&tbs=imgo:1&udm=2)
+* [Praiano](https://www.google.com/search?q=praiano+amalfi+coast&tbs=imgo:1&udm=2)
 * Vesuvio
 
 
@@ -149,7 +149,7 @@
   - Extra:
   - Spanek:
   - Plan B:
-* **19** [- ?, **Caiazzo** - **Napoli**, ~56km]()
+* **19** [- ?, **Caiazzo** - **Sorrento**, ~95km]()
   - Prestavky:
   - Obed: 
   - Vecere: 
@@ -157,8 +157,12 @@
   - Extra:
   - Spanek:
   - Plan B:
-* **20-21** [- ?, **Napoli** - **👑 Vesuvio 👑** - **Napoli**, ~185km]()
-  - Prestavky:
+* **20** [- ?, **Sorrento** - **Sorrento**, ~0km]()
+  - Restday
+  - Extra: Capri ostrov
+  - Spanek:
+* **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~110km]()
+  - Prestavky: Praiano
   - Obed: 
   - Vecere:
   - Voda:
