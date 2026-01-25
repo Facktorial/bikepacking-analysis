@@ -161,12 +161,12 @@
   - Restday
   - Extra: Capri ostrov
   - Spanek:
-* **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~110km]()
-  - Prestavky: Praiano
+* **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~80km](https://mapy.com/s/cucohajuva)
+  - Prestavky: 
   - Obed: 
   - Vecere:
   - Voda:
-  - Extra:
+  - Extra: Královská vrchařská etapa
   - Spanek:
   - Plan B:
 * **22 - 25** `Homecoming`
