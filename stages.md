@@ -29,7 +29,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: Hamaka v autocempu
   - Plan B:
 * **2** [- Autocamp U Pískovny, **Tušť** - ~Liezen?, ~240km]()
   - Prestavky: České Velenice, Waidhofen an der Ybbs
@@ -37,7 +37,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hamaka?
   - Plan B:
 * **3** [- ?, ? - **Faaker See**, ~210km]()
   - Prestavky: Waidhofen an der Ybbs
@@ -45,17 +45,18 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hamaka?
   - Plan B:
 * **4** [- ?, **Faaker See** - **Faaker See**, 0km]()
   - Rest Day
+  - Spanek: 🚨 **FIXME** - hamaka?
 * **5** [- ?, **Faaker See** - ~Udine, ~150km]()
   - Prestavky: Waidhofen an der Ybbs
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hamaka?
   - Plan B:
 * **6** [- ?, ~Udine - **Venezia**, ~140km]()
   - Prestavky:
@@ -63,7 +64,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **7** [- ?, **Venezia** - Verona, ~180km]()
   - Prestavky: Chioggia
@@ -71,7 +72,7 @@
   - Vecere:
   - Voda:
   - Extra: trajekt Alberoni
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **8** [- ?, Verona - Bologna, ~140km]()
   - Prestavky:
@@ -79,7 +80,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **9** [- ?, Bologna - Firenze, ~130km]()
   - Prestavky:
@@ -87,7 +88,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **10** [- ?, **Firenze** - Castiglione d'Orcia, ~180km]()
   - Prestavky:
@@ -95,7 +96,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hamaka?
   - Plan B:
 * **11** [- ?, Castiglione d'Orcia - **Civita di Bagnoregio**, ~90km]()
   - Prestavky:
@@ -111,37 +112,39 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: Air
   - Plan B:
 * **13** [- ?, **Ortobello** - **Ortobello**, 0km]()
   - Rest Day
-* **14** [- ?, **Ortobello** - Lago di Vico, ~230km]()
+  - Spanek: 
+* **14** [- ?, **Ortobello** - Lago di Vico - Trevignano Romano, ~160km]()
   - Prestavky:
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: autokemp
   - Plan B:
-* **15** [- ?, Lago di Vico - **Rome**, ~100km]()
+* **15** [- ?, Trevignano Romano - **Rome**, ~66.6km]()
   - Prestavky:
   - Obed: 
   - Vecere:
   - Voda:
   - Extra: Tourist day
-  - Spanek:
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **16** [- ?, **Rome** - **Rome**, ~0km]()
   - Tourist day
-* **17** [- ?, **Rome** - Cassino, ~180km]()
+  - Spanek: 🚨 **FIXME** - hostel?
+* **17** [- ?, **Rome** - Formia, ~170km]()
   - Prestavky:
   - Obed: 
   - Vecere:
   - Voda:
   - Extra: Tourist day
-  - Spanek:
+  - Spanek: autokemp
   - Plan B:
-* **18** [- ?, Cassion - **Caiazzo**, ~90km]()
+* **18** [- ?, Cassion - Roccamonia - **Caiazzo**, ~110km]()
   - Prestavky:
   - Obed: 
   - Vecere: **PEPE IN GRANI**
@@ -167,7 +170,7 @@
   - Vecere:
   - Voda:
   - Extra: Královská vrchařská etapa
-  - Spanek: 
+  - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
 * **22 - 25** `Homecoming`
   - WizzAir? Flixbus?
