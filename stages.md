@@ -103,7 +103,7 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek:
+  - Spanek: [Ubytko](https://www.booking.com/hotel/it/libera-mente-bagnoregio2.en-gb.html?aid=390156&label=duc511jc-10CAUocUIUY2l2aXRhLWRpLWJhZ25vcmVnaW9IFFgDaDqIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AoKH-MwGwAIB0gIkYWMwMTUwNWItNThkNC00NzRiLWE2YmUtMzEyNmY4MGYxMzk52AIB4AIB&sid=df643331b91a21a700556cd3adc9ca19&all_sr_blocks=157341202_356162683_2_0_0&checkin=2026-07-14&checkout=2026-07-15&dest_id=58182&dest_type=landmark&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=157341202_356162683_2_0_0&hpos=1&matching_block_id=157341202_356162683_2_0_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=157341202_356162683_2_0_0__7900&srepoch=1771964639&srpvid=127e8d52bc77092e&type=total&ucfs=1&)
   - Plan B:
 * **12** [- ?, **Civita di Bagnoregio** - **Ortobello**, ~120km]()
   - Prestavky:
