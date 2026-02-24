@@ -112,11 +112,11 @@
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek: Air
+  - Spanek: [booking](https://www.booking.com/hotel/it/b-amp-b-corso-italia-orbetello.en-gb.html?)
   - Plan B:
 * **13** [- ?, **Ortobello** - **Ortobello**, 0km]()
   - Rest Day
-  - Spanek: 
+  - Spanek: [booking](https://www.booking.com/hotel/it/b-amp-b-corso-italia-orbetello.en-gb.html?)
 * **14** [- ?, **Ortobello** - Lago di Vico - Trevignano Romano, ~160km]()
   - Prestavky:
   - Obed: 
