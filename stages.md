@@ -50,21 +50,21 @@
 * **4** [- ?, **Faaker See** - **Faaker See**, 0km]()
   - Rest Day
   - Spanek: 🚨 **FIXME** - hamaka?
-* **5** [- ?, **Faaker See** - ~Udine, ~150km]()
+* **5** [- ?, **Faaker See** - Lago di Predil - ~Udine - Bibione, ~220km]()
   - Prestavky: Waidhofen an der Ybbs
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek: 🚨 **FIXME** - hamaka?
+  - Spanek: autocamp
   - Plan B:
-* **6** [- ?, ~Udine - **Venezia**, ~140km]()
+* **6** [- ?, ~Udine - **Venezia**, ~100km]()
   - Prestavky:
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek: 🚨 **FIXME** - hostel?
+  - Spanek: [hotel](https://www.booking.com/hotel/it/casa-accademia-venice.en-gb.html)
   - Plan B:
 * **7** [- ?, **Venezia** - Verona, ~180km]()
   - Prestavky: Chioggia
