@@ -23,35 +23,49 @@
 
 
 ## Stages
-* **1** [- ?, **Praha** - Autocamp U Pískovny, **Tušť**, ~190km]()
-  - Prestavky: **Milevsko**
+* **1** [?, **Praha** - Autocamp U Pískovny, **Tušť**, ~202,2km](https://mapy.com/s/colunocaku)
+  - Prestavky: **Milevsko**, Bechyně, Veselí nad Lužnicí
+  - ↑: +**1364** m, max **545** m.n.
+  - ↓: -**1109** m, min **190** m.n. (start)
+  - 205 *m.n.* -> 453 *m.n.* 
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
   - Spanek: Hamaka v autocempu
   - Plan B:
-* **2** [- Autocamp U Pískovny, **Tušť** - ~Liezen?, ~240km]()
+* **2** [Autocamp U Pískovny, **Tušť** - Forstgarten, ~233,2km](https://mapy.com/s/burohagaga)
   - Prestavky: České Velenice, Waidhofen an der Ybbs
+  - ↑: +**2202** m, max **940** m.n.
+  - ↓: -**2074** m, min **230** m.n.
+  - 453 *m.n.* -> 581 *m.n.* 
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
-  - Spanek: 🚨 **FIXME** - hamaka?
+  - Spanek: kemp, hamaka?
   - Plan B:
-* **3** [- ?, ? - **Faaker See**, ~210km]()
+* **3** [Forstgarten, Liezen - **Faaker See**, ~243.2km](https://mapy.com/s/mozucepabe)
   - Prestavky: Waidhofen an der Ybbs
+  - ↑: +**1819** m, max **1780** m.n.
+  - ↓: -**1840** m, min **450** m.n.
+  - 581 *m.n.* -> 460 *m.n.* 
   - Obed: 
   - Vecere:
   - Voda:
   - Extra:
   - Spanek: 🚨 **FIXME** - hamaka?
   - Plan B:
-* **4** [- ?, **Faaker See** - **Faaker See**, 0km]()
+* **4** [REST DAY, **Faaker See** - **Faaker See**, 0km]()
   - Rest Day
+  - Extra: Faaker See Insel, Tabor, Wauberg, Villach
   - Spanek: 🚨 **FIXME** - hamaka?
-* **5** [- ?, **Faaker See** - Lago di Predil - ~Udine - Bibione, ~220km]()
+* **5** [- ?, **Faaker See** - Lago del Predil - Bibione, ~227.6km](https://mapy.com/s/pogocamuru)
   - Prestavky: Waidhofen an der Ybbs
+  - ↑: +**586** m, max **970** m.n.
+  - ↓: -**1146** m, min **0** m.n.
+  - 586 *m.n.* -> 0 *m.n.*
+  - Branches: Bovec([198.9km, max 1161 m.n., +886m](https://mapy.com/s/lupuhecese)), Straight([207.7km, max 1190 m.n., +734 m](https://mapy.com/s/jehozobejo))
   - Obed: 
   - Vecere:
   - Voda:
@@ -59,7 +73,7 @@
   - Spanek: autocamp
   - Plan B:
 * **6** [- ?, ~Udine - **Venezia**, ~100km]()
-  - Prestavky:
+  - Prestavky: Udine
   - Obed: 
   - Vecere:
   - Voda:
@@ -67,7 +81,7 @@
   - Spanek: [hotel](https://www.booking.com/hotel/it/casa-accademia-venice.en-gb.html)
   - Plan B:
 * **7** [- ?, **Venezia** - Verona, ~180km]()
-  - Prestavky: Chioggia
+  - Prestavky: Lago del Predil, Chioggia
   - Obed: 
   - Vecere:
   - Voda:
