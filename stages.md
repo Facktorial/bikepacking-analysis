@@ -154,7 +154,7 @@
   - Rest Day
   - Isola di Giannutri, Porto Santo Stefano, Orbetello
   - Spanek: [booking](https://www.booking.com/hotel/it/b-amp-b-corso-italia-orbetello.en-gb.html?)
-* **14** [- ?, **Ortobello** - Lago di Vico - Trevignano Romano, 157.4km]()
+* **14** [- ?, **Ortobello** - Lago di Vico - Trevignano Romano, 157.4km](https://mapy.com/s/jupokugace)
   - Prestavky: Ansedionia, Lago di Vico
   - ↑: +**1146** m, max **860** m.n.
   - ↓: -**1286** m, min **0** m.n.
@@ -165,7 +165,7 @@
   - Extra:
   - Spanek: autokemp
   - Plan B:
-* **15** [- ?, Trevignano Romano - **Rome**, ~61.6km]()
+* **15** [- ?, Trevignano Romano - **Rome**, ~61.6km](https://mapy.com/s/favelofaze)
   - Prestavky:
   - ↑: +**441** m, max **350** m.n.
   - ↓: -**566** m, min **10** m.n.
@@ -179,24 +179,33 @@
 * **16** [- ?, **Rome** - **Rome**, ~0km]()
   - Tourist day
   - Spanek: 🚨 **FIXME** - hostel?
-* **17** [- ?, **Rome** - Formia, ~170km]()
-  - Prestavky:
+* **17** [- ?, **Rome** - Formia, ~178.8km](https://mapy.com/s/leladosuva)
+  - Prestavky: Gaeta
+  - ↑: +**586** m, max **150** m.n.
+  - ↓: -**621** m, min **0** m.n.
+  - 30 *m.n.* -> 0 *m.n.*
   - Obed: 
   - Vecere:
   - Voda:
   - Extra: Tourist day
-  - Spanek: autokemp
+  - Spanek: [autokemp](https://www.loredanadimaio.it/)
   - Plan B:
-* **18** [- ?, Cassion - Roccamonia - **Caiazzo**, ~110km]()
+* **18** [- ?, Cassion - Roccamonia - **Caiazzo**, 100km](https://mapy.com/s/gabogorube)
   - Prestavky:
+  - ↑: +**1010** m, max **610** m.n.
+  - ↓: -**820** m, min **0** m.n.
+  - 0 *m.n.* -> 200 *m.n.*
   - Obed: 
   - Vecere: **PEPE IN GRANI**
   - Voda:
   - Extra:
   - Spanek: [Caiazzo centrum](https://www.booking.com/hotel/it/de-matteo.en-gb.html?label=duc511jc-10CAUocUIUY2l2aXRhLWRpLWJhZ25vcmVnaW9IFFgDaDqIAQGYATO4ARnIAQ_YAQPoAQH4AQGIAgGoAgG4AoKH-MwGwAIB0gIkYWMwMTUwNWItNThkNC00NzRiLWE2YmUtMzEyNmY4MGYxMzk52AIB4AIB)
   - Plan B:
-* **19** [- ?, **Caiazzo** - **Sorrento**, ~95km]()
+* **19** [- ?, **Caiazzo** - **Sorrento**, 91.7km](https://mapy.com/s/paneposuve)
   - Prestavky:
+  - ↑: +**842** m, max **324** m.n.
+  - ↓: -**998** m, min **0** m.n.
+  - 200 *m.n.* -> 0 *m.n.*
   - Obed: 
   - Vecere: 
   - Voda:
@@ -208,12 +217,15 @@
   - Extra: Capri ostrov
   - Spanek: [Vila na pobrezi](https://www.airbnb.com/rooms/1408549561566394200)
 * **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~80km](https://mapy.com/s/cucohajuva)
-  - Prestavky: 
+  - Prestavky:
+  - ↑: +**1687** m, max **1228** m.n.
+  - ↓: -**1717** m, min **0** m.n.
+  - 0 *m.n.* -> 0 *m.n.*
   - Obed: 
   - Vecere:
   - Voda:
   - Extra: Královská vrchařská etapa
   - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
-* **22 - 25** `Homecoming`
+* **22. - 25** `Homecoming`
   - WizzAir? Flixbus?
