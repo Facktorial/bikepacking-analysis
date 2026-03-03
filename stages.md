@@ -94,8 +94,8 @@
   - Extra: trajekt Alberoni, trajekt Chioggia
   - Spanek: 🚨 **FIXME** - hostel?
   - Plan B:
-* **8** [- ?, Verona - Bologna, 172.6km](https://mapy.com/s/juvevoguvu)
-  - Prestavky: Modena
+* **8** [- ?, Verona - Bologna, 191,5km](https://mapy.com/s/labocezape)
+  - Prestavky: Mantova, Modena
   - ↑: +**126** m, max **74** m.n.
   - ↓: -**121** m, min **10** m.n.
   - 69 *m.n.* -> 74 *m.n.*
