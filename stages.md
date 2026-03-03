@@ -190,10 +190,10 @@
   - Extra: Tourist day
   - Spanek: [autokemp](https://www.loredanadimaio.it/)
   - Plan B:
-* **18** [- ?, Cassion - Roccamonia - **Caiazzo**, 100km](https://mapy.com/s/gabogorube)
+* **18** [- ?, Cassion - Roccamonia - **Caiazzo**, 153.7km](https://mapy.com/s/ponufesegu)
   - Prestavky:
-  - ↑: +**1010** m, max **610** m.n.
-  - ↓: -**820** m, min **0** m.n.
+  - ↑: +**2657** m, max **1221** m.n.
+  - ↓: -**2467** m, min **0** m.n.
   - 0 *m.n.* -> 200 *m.n.*
   - Obed: 
   - Vecere: **PEPE IN GRANI**
