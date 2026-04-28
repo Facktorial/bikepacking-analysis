@@ -216,10 +216,10 @@
   - Restday
   - Extra: Capri ostrov
   - Spanek: [Vila na pobrezi](https://www.airbnb.com/rooms/1408549561566394200)
-* **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~80km](https://mapy.com/s/cucohajuva)
+* **21** [- ?, **Sorrento** - **👑 Vesuvio 👑** - **Napoli**, ~132km](https://mapy.com/s/nedenohuce)
   - Prestavky:
-  - ↑: +**1687** m, max **1228** m.n.
-  - ↓: -**1717** m, min **0** m.n.
+  - ↑: +**3349** m, max **1228** m.n.
+  - ↓: -**3379** m, min **0** m.n.
   - 0 *m.n.* -> 0 *m.n.*
   - Obed: 
   - Vecere:
