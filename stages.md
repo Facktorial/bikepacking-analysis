@@ -23,7 +23,7 @@
 
 
 ## Stages
-* **1** [?, **Praha** - Autocamp U Pískovny, **Tušť**, ~202,2km](https://mapy.com/s/colunocaku)
+* **1** [?, **Praha** - Autocamp U Pískovny, **Tušť**, ~202,2km](https://mapy.com/s/rekusojego)
   - Prestavky: **Milevsko**, Bechyně, Veselí nad Lužnicí
   - ↑: +**1364** m, max **545** m.n.
   - ↓: -**1109** m, min **190** m.n. (start)
