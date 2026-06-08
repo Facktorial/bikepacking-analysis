@@ -1,15 +1,15 @@
-| Stage | Route | km | ↑m | Dist. | Climb |
-|---------|---------|---------:|---------:|---------|---------|
-| [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 202.2 | 1364 | ⭐⭐⭐ | ⛰️ |
-| 🔥[2](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 233.2 | 2202 | ⭐⭐⭐ | ⛰️⛰️⛰️ |
-| [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️ |
-| 😴 4 | Faaker See (Rest Day) | 0 | -- | -- | -- |
-| [5](https://mapy.com/s/pogocamuru) | Faaker See → Bibione | 227.6 | 586 | ⭐⭐⭐ | ⛰️ |
-| [6](https://mapy.com/s/bebakalotu) | Bibione → Venezia | 99.3 | 10 | ⭐ | ⛰️ |
-| [7](https://mapy.com/s/guzutahefe) | Venezia → Verona | 163.5 | 141 | ⭐⭐ | ⛰️ |
-| [8](https://mapy.com/s/labocezape) | Verona → Bologna | 191.5 | 126 | ⭐⭐ | ⛰️ |
-| 9 | Bologna → Firenze | 124.8 | 2818 | ⭐ | ⛰️⛰️⛰️ |
-| 🔥[10](https://mapy.com/s/fezecanofa) | Firenze → Castiglione d'Orcia | 184.2 | 2098 | ⭐⭐ | ⛰️⛰️ |
+| Stage | Route | km | ↑m | Dist. | Climb | State | PointsOI |
+|---------|---------|---------:|---------:|---------|---------|-----:|-----:|
+| [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 202.2 | 1364 | ⭐⭐⭐ | ⛰️ | ✅️⛳| 6 |
+| 🔥[2](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 233.2 | 2202 | ⭐⭐⭐ | ⛰️⛰️⛰️ | ⚙️ | 5 |
+| [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️ | ⚙️ | 1 |
+| 😴 4 | Faaker See (Rest Day) | 0 | -- | -- | -- | ✅️⛳ | 3 |
+| [5](https://mapy.com/s/pogocamuru) | Faaker See → Bibione | 227.6 | 586 | ⭐⭐⭐ | ⛰️ | ✅️ | 3 |
+| [6](https://mapy.com/s/bebakalotu) | Bibione → Venezia | 99.3 | 10 | ⭐ | ⛰️ | ⚙️⛳ | 2 |
+| [7](https://mapy.com/s/guzutahefe) | Venezia → Verona | 163.5 | 141 | ⭐⭐ | ⛰️ | ⏭️ | 3 |
+| [8](https://mapy.com/s/labocezape) | Verona → Bologna | 191.5 | 126 | ⭐⭐ | ⛰️ | ⚙️ | ... |
+| 9 | Bologna → Firenze | 124.8 | 2818 | ⭐ | ⛰️⛰️⛰️ | ⚙️ | ... |
+| 🔥[10](https://mapy.com/s/fezecanofa) | Firenze → Castiglione d'Orcia | 184.2 | 2098 | ⭐⭐ | ⛰️⛰️ | ✅️⛳ | | ... |
 | [11](https://mapy.com/s/bohehabobe) | Castiglione d'Orcia → Civita di Bagnoregio | 93.0 | 1401 | ⭐ | ⛰️ |
 | [12](https://mapy.com/s/novovamepu) | Civita di Bagnoregio → Orbetello | 119.9 | 798 | ⭐ | ⛰️ |
 | 😴 13 | Orbetello (Rest Day) | 0 | -- | -- | -- |
