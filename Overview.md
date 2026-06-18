@@ -6,7 +6,7 @@
 |-----|---------|---------|---------:|---------:|---------|---------|---------|-----:|-----:|-----:|-----:|-----:|
 | **1** | [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 205.7 | 1394 | ⭐⭐⭐ | ⛰️ | 5 | ✅️⛳| 6 | []() | 🏕️ | [1930m](https://www.komoot.com/tour/3047082157?share_token=aWvYUCaMg0AYh17mMx3bGFy60YdYdntxbCdYk0tW1m1TXPRlDQ&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
 | **2** | 🔥🏆[2](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 251.2 | 2693 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ | [3630m](https://www.komoot.com/tour/3010262655?share_token=aBPw2DqnO3rAW4U222KT7d8f42J922sJnabsZr32pD6bb4sEhC&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
-| **3** | [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ | [2870m](https://www.komoot.com/tour/3045447879?share_token=avRKYCk7Hc2Jsbz64IU5sXQcRtCr2n7sQJmUJCq1arvH7L8Ztq&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
+| **3** | [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ | [2870m](https://www.komoot.com/tour/3045447879?share_token=avRKYCk7Hc2Jsbz64IU5sXQcRtCr2n7sQJmUJCq1arvH7L8Ztq&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
 | **4** | 😴 4 | Faaker See (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 3 | | 🏕️ | []() |
 | **5** | 🔥[5](https://mapy.com/s/gulanemafo) | Faaker See → Marlano | 256.1 | 595 | ⭐⭐⭐ | ⛰️ | 7 | ✅️ | 5 | []() | ❓ | []() |
 | **5** | [5B](https://mapy.com/s/juharazuta) | Faaker See → Grado | 190.6 | 335 | ⭐⭐⭐ |  | 5 | ✅️ | 4 | []() | ❓ | []() |
