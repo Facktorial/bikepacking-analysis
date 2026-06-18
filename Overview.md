@@ -1,29 +1,31 @@
 | Day | Stage | Route | km | ↑m | Dist. | Climb | Difficulty | State | PointsOI | Intro | Spink |
-|---------|---------|---------:|---------:|---------|---------|---------|-----:|-----:|-----:|-----:|
+|-----|---------|---------|---------:|---------:|---------|---------|---------|-----:|-----:|-----:|-----:|
 | **1** | [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 205.7 | 1394 | ⭐⭐⭐ | ⛰️ | 5 | ✅️⛳| 6 | []() | 🏕️ |
-| **1** | 🔥🏆[2](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 251.2 | 2693 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ |
-| **1** | [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ |
-| **1** | 😴 4 | Faaker See (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 3 | | 🏕️ |
-| **1** | 🔥[5](https://mapy.com/s/gulanemafo) | Faaker See → Marlano | 256.1 | 595 | ⭐⭐⭐ | ⛰️ | 7 | ✅️ | 5 | []() | ❓ |
-| **1** | [5B](https://mapy.com/s/juharazuta) | Faaker See → Grado | 190.6 | 335 | ⭐⭐⭐ |  | 7 | ✅️ | 5 | []() | ❓ |
-| **1** | [5C](https://mapy.com/s/gefokabata) | Faaker See → Grado | 173.7 | 858 | ⭐⭐ | ⛰️ | 7 | ✅️ | 5 | []() | ❓ |
-| **1** | [6](https://mapy.com/s/ketotorecu) | Bibione → Venezia | 121.6 | 10 | ⭐ |   | 3 | ⚙️⛳ | 1 | []() | 🛌 |
-| **1** | [7](https://mapy.com/s/gufapabugo) | Venezia → Verona | 165.9 | 213 | ⭐⭐ | ⛰️ | 6 | ⏭️ | 3 | []() | ❓ |
-| **1** | [8](https://mapy.com/s/rodotadodo) | Verona → Bologna | 194.8 | 110 | ⭐⭐⭐ |   | 6 | ⚙️ | 4 | []() | ❓ |
-| **1** | [9](https://mapy.com/s/pafofunemo) | Bologna → Firenze | 124.8 | 1673 | ⭐ | ⛰️⛰️ | 4 | ⚙️ | 3 | []() | ❓ |
-| **1** | 🔥[10](https://mapy.com/s/fezecanofa) | Firenze → Castiglione d'Orcia | 186.8 | 2184 | ⭐⭐ | ⛰️⛰️ | 8 | ✅️ | 6 | []() | ❓ |
-| **1** | [11](https://mapy.com/s/bohehabobe) | Castiglione d'Orcia → Civita di Bagnoregio | 93.0 | 1401 | ⭐ | ⛰️⛰️ | 6 | ⏭️✅️⛳ | 1 | []() | 🛌 |
-| **1** | [12](https://mapy.com/s/novovamepu) | Civita di Bagnoregio → Orbetello | 122.3 | 798 | ⭐ | ⛰️ | 4 | ✅️⛳ | 3 | []() | 🛌 |
-| **1** | 😴 13 | Orbetello (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 4 | | 🛌 |
-| **1** | [14](https://mapy.com/s/jupokugace) | Orbetello → Trevignano Romano | 148.5 | 1456 | ⭐⭐ | ⛰️⛰️ | 6 | ✅️ | 4 | []() | 🏕️ |
-| **1** | [15](https://mapy.com/s/favelofaze) | Trevignano Romano → Rome | 62.1 | 431 | ⭐ | ⛰️ | 2 | ✅️⏭️ | 2+ | []() | ❓ |
-| **1** | 😴 16 | Rome (Tourist Day) | 0 | -- | -- | -- | -- | -- | -- | | ❓ |
-| **1** | 🔥[17](https://mapy.com/s/leladosuva) | Rome → Formia | 175.4 | 576 | ⭐⭐ | ⛰️ | 8 | ✅️ | 2 | []() | 🏕️ |
-| **1** | 🏆🔥[18](https://mapy.com/s/ponufesegu) | Cassion → Caiazzo | 155.6 | 2579 | ⭐⭐ | ⛰️⛰️⛰️ | 10 | ✅️⛳ | 3 | []() | 🛌 |
-| **1** | [19](https://mapy.com/s/paneposuve) | Caiazzo → Sorrento | 91.7 | 842 | ⭐ | ⛰️ | 5 | ✅️⛳ | 4 | []() | 🛌 |
-| **1** | 😴 20 | Sorrento (Rest Day) | 0 | -- | -- | -- | -- | -- | 2 | | 🛌 |
-| **1** | 👑🏆🔥[21](https://mapy.com/s/recejumabu) | Sorrento → Vesuvio → Napoli | 144.4 | 3450 | ⭐ | 🏔️⛰️⛰️⛰️ | 10 | ✅️⛳ | 3 |  []() | ❓ |
-| **Σ Total** | **Praha → Napoli** | **2743.1** | **22224** | — | — | — | — | — | — | — |
+| **2** | 🔥🏆[2](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 251.2 | 2693 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ |
+| **3** | [3](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ |
+| **4** | 😴 4 | Faaker See (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 3 | | 🏕️ |
+| **5** | 🔥[5](https://mapy.com/s/gulanemafo) | Faaker See → Marlano | 256.1 | 595 | ⭐⭐⭐ | ⛰️ | 7 | ✅️ | 5 | []() | ❓ |
+| **5** | [5B](https://mapy.com/s/juharazuta) | Faaker See → Grado | 190.6 | 335 | ⭐⭐⭐ |  | 5 | ✅️ | 4 | []() | ❓ |
+| **5** | [5C](https://mapy.com/s/gefokabata) | Faaker See → Grado | 173.7 | 858 | ⭐⭐ | ⛰️ | 5 | ✅️ | 3 | []() | ❓ |
+| **6** | [6](https://mapy.com/s/ketotorecu) | Marlano → Venezia | 121.6 | 10 | ⭐ |   | 3 | ✅️⛳ | 1 | []() | 🛌 |
+| **6** | [6B](https://mapy.com/s/luruselozo) | Grado → Venezia | 137.8.6 | 31 | ⭐ |   | 4 | ✅️⛳ | 1 | []() | 🛌 |
+| **7** | [7](https://mapy.com/s/gufapabugo) | Venezia → Verona | 165.9 | 213 | ⭐⭐ | ⛰️ | 6 | ✅️⏭️ | 3 | []() | ❓ |
+| **8** | [8](https://mapy.com/s/rodotadodo) | Verona → Bologna | 194.8 | 110 | ⭐⭐⭐ |   | 6 | ✅️ | 4 | []() | ❓ |
+| **8** | [8B](https://mapy.com/s/bojujugero) | Verona → Bologna | 168.5 | 73 | ⭐⭐ |   | 5 | ✅️ | 3 | []() | ❓ |
+| **9** | [9](https://mapy.com/s/pafofunemo) | Bologna → Firenze | 124.8 | 1673 | ⭐ | ⛰️⛰️ | 4 | ⚙️ | 3 | []() | ❓ |
+| **10** | 🔥[10](https://mapy.com/s/fezecanofa) | Firenze → Castiglione d'Orcia | 186.8 | 2184 | ⭐⭐ | ⛰️⛰️ | 8 | ✅️ | 6 | []() | ❓ |
+| **11** | [11](https://mapy.com/s/bohehabobe) | Castiglione d'Orcia → Civita di Bagnoregio | 93.0 | 1401 | ⭐ | ⛰️⛰️ | 6 | ⏭️✅️⛳ | 1 | []() | 🛌 |
+| **12** | [12](https://mapy.com/s/novovamepu) | Civita di Bagnoregio → Orbetello | 122.3 | 798 | ⭐ | ⛰️ | 4 | ✅️⛳ | 3 | []() | 🛌 |
+| **13** | 😴 13 | Orbetello (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 4 | | 🛌 |
+| **14** | [14](https://mapy.com/s/jupokugace) | Orbetello → Trevignano Romano | 148.5 | 1456 | ⭐⭐ | ⛰️⛰️ | 6 | ✅️ | 4 | []() | 🏕️ |
+| **15** | [15](https://mapy.com/s/favelofaze) | Trevignano Romano → Rome | 62.1 | 431 | ⭐ | ⛰️ | 2 | ✅️⏭️ | 2+ | []() | ❓ |
+| **16** | 😴 16 | Rome (Tourist Day) | 0 | -- | -- | -- | -- | -- | -- | | ❓ |
+| **17** | 🔥[17](https://mapy.com/s/leladosuva) | Rome → Formia | 175.4 | 576 | ⭐⭐ | ⛰️ | 8 | ✅️ | 2 | []() | 🏕️ |
+| **18** | 🏆🔥[18](https://mapy.com/s/ponufesegu) | Cassion → Caiazzo | 155.6 | 2579 | ⭐⭐ | ⛰️⛰️⛰️ | 10 | ✅️⛳ | 3 | []() | 🛌 |
+| **19** | [19](https://mapy.com/s/paneposuve) | Caiazzo → Sorrento | 91.7 | 842 | ⭐ | ⛰️ | 5 | ✅️⛳ | 4 | []() | 🛌 |
+| **20** | 😴 20 | Sorrento (Rest Day) | 0 | -- | -- | -- | -- | -- | 2 | | 🛌 |
+| **21** | 👑🏆🔥[21](https://mapy.com/s/recejumabu) | Sorrento → Vesuvio → Napoli | 144.4 | 3450 | ⭐ | 🏔️⛰️⛰️⛰️ | 10 | ✅️⛳ | 3 |  []() | ❓ |
+| **Σ Total** | | **Praha → Napoli** | **2743.1** | **22224** | — | — | — | — | — | — | — |
 
 ## Summary
 * 🚴 **Total distance:** 2743.1 km
