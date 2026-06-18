@@ -1,3 +1,7 @@
+# Overview
+## [Complete map (out-dated)] (https://mapy.com/s/rezoheguma)
+## [Stages](https://github.com/Facktorial/bikepacking-analysis/edit/HodneNaPoliTour/stages.md)
+
 | Day | Stage | Route | km | ↑m | Dist. | Climb | Difficulty | State | PointsOI | Intro | Spink | Komoot |
 |-----|---------|---------|---------:|---------:|---------|---------|---------|-----:|-----:|-----:|-----:|-----:|
 | **1** | [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 205.7 | 1394 | ⭐⭐⭐ | ⛰️ | 5 | ✅️⛳| 6 | []() | 🏕️ | [1930m](https://www.komoot.com/tour/3047082157?share_token=aWvYUCaMg0AYh17mMx3bGFy60YdYdntxbCdYk0tW1m1TXPRlDQ&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
