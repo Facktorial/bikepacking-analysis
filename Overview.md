@@ -1,5 +1,5 @@
 # Overview
-## [Complete map (out-dated)] (https://mapy.com/s/rezoheguma)
+## [Complete map (out-dated)](https://mapy.com/s/rezoheguma)
 ## [Stages](https://github.com/Facktorial/bikepacking-analysis/edit/HodneNaPoliTour/stages.md)
 
 | Day | Stage | Route | km | ↑m | Dist. | Climb | Difficulty | State | PointsOI | Intro | Spink | Komoot |
