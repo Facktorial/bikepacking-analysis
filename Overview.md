@@ -5,9 +5,9 @@
 | Day | Stage | Route | km | ↑m | Dist. | Climb | Difficulty | State | PointsOI | Intro | Spink | Komoot |
 |-----|---------|---------|------------:|---------:|---------|---------|---------|-----:|-----:|-----:|-----:|-----:|
 | **1** | [1](https://mapy.com/s/rekusojego) | Praha → Tušť | 205.7 | 1394 | ⭐⭐⭐ | ⛰️ | 5 | ✅️⛳| 6 | []() | 🏕️ | [1930m](https://www.komoot.com/tour/3047082157?share_token=aWvYUCaMg0AYh17mMx3bGFy60YdYdntxbCdYk0tW1m1TXPRlDQ&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
-| **2** | 🔥[2A](https://mapy.com/s/gorolasapa) | Tušť → Forstgarten | 257.6 | 1534 | ⭐⭐⭐ | ⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ | [2460m](https://www.komoot.com/tour/3048335228?share_token=aGtZkceCw4ff28KIzFba5GJ5kLsIIfRbFIe3k8wraLmOPuTCuX&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
+| **2** | 🔥[2A](https://mapy.com/s/putokegavu) | Tušť → Seecamping Appesbach | 260.9 | 1534 | ⭐⭐⭐ | ⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ | [2460m](https://www.komoot.com/tour/3048335228?share_token=aGtZkceCw4ff28KIzFba5GJ5kLsIIfRbFIe3k8wraLmOPuTCuX&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
 |  | 🔥🏆[2F](https://mapy.com/s/burohagaga) | Tušť → Forstgarten | 251.2 | 2693 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 10 | ⚙️ | 5 | []() | 🏕️ | [3630m](https://www.komoot.com/tour/3010262655?share_token=aBPw2DqnO3rAW4U222KT7d8f42J922sJnabsZr32pD6bb4sEhC&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
-| **3** | 🔥[3A](https://mapy.com/s/rehedugono) | Forstgarten → Faaker See | 218.1 🚂+11.6 | 2044 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ | [2950m](https://www.komoot.com/tour/3048342998?share_token=aZl25L9Bi4tPB3Ffg1DBvCm5P7KR1qLtH7fa7zZyAyLAckvFDg&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
+| **3** | 🔥[3A](https://mapy.com/s/rehedugono) | Seecamping Appesbach → Faaker See | 218.1 🚂+11.6 | 2044 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ | [2950m](https://www.komoot.com/tour/3048342998?share_token=aZl25L9Bi4tPB3Ffg1DBvCm5P7KR1qLtH7fa7zZyAyLAckvFDg&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
 |  | 🔥[3F](https://mapy.com/s/mozucepabe) | Forstgarten → Faaker See | 243.2 | 1819 | ⭐⭐⭐ | ⛰️⛰️⛰️ | 9 | ⚙️ | 1 | []() | 🏕️ | [2870m](https://www.komoot.com/tour/3045447879?share_token=avRKYCk7Hc2Jsbz64IU5sXQcRtCr2n7sQJmUJCq1arvH7L8Ztq&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
 | **4** | 😴 | Faaker See (Rest Day) | 0 | -- | -- | -- | -- | ✅️⛳ | 3 | | 🏕️ | []() |
 | **5** | 🔥[5](https://mapy.com/s/gulanemafo) | Faaker See → Marlano | 256.1 | 595 | ⭐⭐⭐ | ⛰️ | 7 | ✅️ | 5 | []() | ❓ | []() |
@@ -35,11 +35,11 @@
 | **Σ Total** | | **Praha → Napoli** | **2743.1** | **22224** | — | — | — | — | — | — | — |
 
 ## Summary
-* 🚴 **Total distance:** 2726.4 km
+* 🚴 **Total distance:** 2729.7 km
 * ⛰️ **Total ascent:** 21,290 m
 * 😴 **Rest days:** 4
 * 🚴 **Riding days:** 17
-* 📏 **Average riding day:** 160.24 km
+* 📏 **Average riding day:** 160.44 km
 * ⛰️ **Average ascent per riding day:** 1,252 m
 
 ## Criteriums:
