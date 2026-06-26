@@ -1,7 +1,7 @@
 # Equipment
 ## To buy
 * powerbank
-* gloves
+* ~~gloves~~
 * dioptric insert
 * slippers
 * airy jersey
@@ -9,7 +9,7 @@
 * antiheat sleeves
 * sun oil
 * servis
-* 1l bidon
+* ~~1l bidon~~ 
 * garmin holder, light
 * karimatka
 
