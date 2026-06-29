@@ -2,16 +2,18 @@
 ## To buy
 * powerbank
 * ~~gloves~~
-* dioptric insert
-* slippers
-* airy jersey
+* ~~dioptric insert~~
+* ~~slippers~~
+* ~~airy jersey~~
 * bivak
 * antiheat sleeves
-* sun oil
+* ~~sun oil~~
 * servis
 * ~~1l bidon~~ 
 * garmin holder, light
 * karimatka
+* cerne uhli
+* kompletace lekarnicky
 
 ### Extra
 * extra phone
