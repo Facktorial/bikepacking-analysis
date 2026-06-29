@@ -17,7 +17,7 @@
 |  | [5C](https://mapy.com/s/gefokabata) | Faaker See → Grado | 173.7 | 858 | ⭐⭐ | ⛰️ | 5 | ✅️ | 3 | []() | ❓ | []() |
 | **6** | [6](https://mapy.com/s/ketotorecu) | Marlano → Venezia | 121.6 | 10 | ⭐ |   | 3 | ✅️⛳ | 1 | []() | 🛌 | []() |
 |  | [6B](https://mapy.com/s/luruselozo) | Grado → Venezia | 137.8.6 | 31 | ⭐ |   | 4 | ✅️⛳ | 1 | []() | 🛌 | []() |
-| **7** | [7](https://mapy.com/s/gufapabugo) | Venezia → Verona | 165.9 | 213 | ⭐⭐ | ⛰️ | 6 | ✅️⏭️ | 3 | []() | ❓ | []() |
+| **7** | [7](https://mapy.com/s/gufapabugo) | Venezia → Verona | 165.9 | 213 | ⭐⭐ | ⛰️ | 6 | ✅️⏭️ | 3 | []() | Bohdanovo | []() |
 | **8** | [8](https://mapy.com/s/rodotadodo) | Verona → Bologna | 194.8 | 110 | ⭐⭐⭐ |   | 6 | ✅️ | 4 | []() | ❓ | []() |
 |  | [8B](https://mapy.com/s/bojujugero) | Verona → Bologna | 168.5 | 73 | ⭐⭐ |   | 5 | ✅️ | 3 | []() | ❓ | []() |
 | **9** | [9](https://mapy.com/s/pafofunemo) | Bologna → Firenze | 124.8 | 1673 | ⭐ | ⛰️⛰️ | 4 | ✅️ | 3 | []() | ❓ | [2030m](https://www.komoot.com/tour/3047015734?share_token=awrU4pgHTiuZNKysBoSpHiVys4SMhI6HlZ3LNqtLF42Ql22R44&ref=wtd&t_s=referral&t_cid=route_share&t_ref_username=4324889737987) |
