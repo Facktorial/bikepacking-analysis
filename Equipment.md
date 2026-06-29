@@ -16,6 +16,7 @@
 * kompletace lekarnicky
 * zipper bags
 * ubrousky, desinfekce
+* duck tape
 
 ### Extra
 * extra phone
@@ -25,6 +26,7 @@
 * thermo mug
 * zipper bags
 * eska pasky
+* nuzky
 
 ## Gear
 * repair kit: ...
