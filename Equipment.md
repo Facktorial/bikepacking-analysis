@@ -12,8 +12,10 @@
 * ~~1l bidon~~ 
 * garmin holder, light
 * karimatka
-* cerne uhli
+* ~~cerne uhli~~
 * kompletace lekarnicky
+* zipper bags
+* ubrousky, desinfekce
 
 ### Extra
 * extra phone
