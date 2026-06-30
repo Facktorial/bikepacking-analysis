@@ -19,6 +19,9 @@
 * duck tape
 * power kabel
 * lanka, koliky
+* sedlo
+* derailer
+* sroubky
 
 ### Extra
 * extra phone
