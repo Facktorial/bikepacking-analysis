@@ -17,6 +17,8 @@
 * zipper bags
 * ubrousky, desinfekce
 * duck tape
+* power kabel
+* lanka, koliky
 
 ### Extra
 * extra phone
