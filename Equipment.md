@@ -11,7 +11,7 @@
 * servis
 * ~~1l bidon~~ 
 * garmin holder, light
-* karimatka
+* ~~karimatka~~
 * ~~cerne uhli~~
 * ~~kompletace lekarnicky~~
 * ~~zipper bags~~
