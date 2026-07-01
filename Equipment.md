@@ -22,6 +22,7 @@
 * sedlo
 * derailer
 * sroubky
+* plachtova oka
 
 ### Extra
 * extra phone
