@@ -5,7 +5,7 @@
 * ~~dioptric insert~~
 * ~~slippers~~
 * ~~airy jersey~~
-* bivak
+* ~~bivak~~
 * antiheat sleeves
 * ~~sun oil~~
 * servis
@@ -13,11 +13,11 @@
 * garmin holder, light
 * karimatka
 * ~~cerne uhli~~
-* kompletace lekarnicky
-* zipper bags
-* ubrousky, desinfekce
-* duck tape
-* power kabel
+* ~~kompletace lekarnicky~~
+* ~~zipper bags~~
+* ~~ubrousky, desinfekce~~
+* ~~duck tape~~
+* ~~power kabel~~
 * lanka, koliky
 * sedlo
 * derailer
